@@ -12,5 +12,6 @@ Meu nome é Renan Pinheiro Fleck
   
   @r3nan.07
 
-https://media.tenor.com/FMDspfCvI-IAAAAM/gremio.gif
+![](https://media.tenor.com/FMDspfCvI-IAAAAM/gremio.gif
+)
 
